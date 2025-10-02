@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <!-- Fondo del logo (transparente) -->
+  <rect width="400" height="200" fill="none"/>
+  
+  <!-- Sol estilizado -->
+  <circle cx="150" cy="70" r="30" fill="#FF9500"/>
+  
+  <!-- Olas digitales -->
+  <path d="M160 120 Q 190 90, 220 120 Q 250 150, 280 120 Q 310 90, 340 120" 
+        fill="none" 
+        stroke="#0066CC" 
+        stroke-width="8"
+        stroke-linecap="round"/>
+  
+  <!-- Texto WebSur -->
+  <text x="130" y="160" 
+        font-family="Arial" 
+        font-weight="bold" 
+        font-size="36" 
+        fill="#333333">
+    WebSur
+  </text>
+  
+  <!-- Texto Studio -->
+  <text x="260" y="160" 
+        font-family="Arial" 
+        font-size="36" 
+        fill="#666666">
+    Studio
+  </text>
+</svg>
