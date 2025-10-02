@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pavlinanaydenova7-hash.github.io/examen-practico-web/sitemap.xml
